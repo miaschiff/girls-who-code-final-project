@@ -1,28 +1,9 @@
-/*
-body{
-	background-color: lightblue;
+table {
+    border-collapse: collapse;
 
 }
 
-h1{
-	font-family:  fantasy; 
-	color:white;
-	text-align: center
+table, td, th {
+    border: 1px solid black;
+     padding: 15px;
 }
-
-p, caption {
-	font-family:  fantasy; 
-	font-size: 30px;
-}
-
-div{
-	color:white;
-}
-
-li, a, tr{
-	font-size: 25px;
-		font-family:  fantasy; 
-	}
-
-
-*/
